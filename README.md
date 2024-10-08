@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Evans Busobozi]
+## Hi there! 👋 I'm Evans Busobozi
 
 # 💫 About Me:
 I'm a passionate Full Stack Developer with a focus on creating scalable web applications and interactive user experiences.
