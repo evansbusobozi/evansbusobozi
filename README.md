@@ -17,8 +17,9 @@ I'm a passionate Full Stack Developer with a focus on creating scalable web appl
 - **Tools & Platforms:** Git, GitHub Actions, Docker
 
 ### 🚀 What I’m Currently Working On
-- [Project 1](https://github.com/evansbusobozi/project1) – A Vue.js 3 web app for managing events.
-- [Project 2](https://github.com/evansbusobozi/project2) – An Angular-based web app for managing tasks.
+- [Events App](https://github.com/evansbusobozi/starter-vue) – A Vue.js 3 web app for managing events.
+- [Task Manager](https://github.com/evansbusobozi/angular-app) – An Angular-based web app for managing tasks.
+- [Music Database](https://github.com/evansbusobozi/music) – An Angular-based web app for managing music files.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=evansbusobozi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
